@@ -1,1 +1,1 @@
-change owner and group owner for all files and directories
+change group and owner of symbolic link
