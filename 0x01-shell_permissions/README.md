@@ -1,1 +1,1 @@
-create new directory with permission
+change owner and group owner for all files and directories
