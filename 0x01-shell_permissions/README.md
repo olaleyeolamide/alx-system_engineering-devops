@@ -1,1 +1,1 @@
-permit owner execution
+multiple permissions
