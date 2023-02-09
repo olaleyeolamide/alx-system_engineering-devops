@@ -1,1 +1,1 @@
-permissions only for user
+copy file permission
