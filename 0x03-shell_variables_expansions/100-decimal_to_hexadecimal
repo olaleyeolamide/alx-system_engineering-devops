@@ -1,0 +1,2 @@
+#!/bin/bash
+printf 'hexStr=dec2hex(D)\n' $DECIMAL
